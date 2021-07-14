@@ -1,4 +1,6 @@
 # Udacity_Programing-for-data-Science
+
+$ git checkout documentation
 Date created
 July.15 2021
 
